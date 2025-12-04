@@ -1,0 +1,3 @@
+# Nelson Pediatrics V3 Requirements
+mistralai>=0.1.0  # For AI-powered summarization
+requests>=2.31.0  # HTTP requests
