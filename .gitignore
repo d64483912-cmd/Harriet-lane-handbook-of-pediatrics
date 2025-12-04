@@ -1,1 +1,18 @@
+# Temporary files
+processing.log
+*.pyc
+__pycache__/
 .DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+venv/
+env/
+.env
